@@ -9,6 +9,40 @@
 
 En el grup de 5 alumnes el 5è alumne també tindrà una màquina virtual amb el SO de client amb linux (Centos 11 client)
 
+# Assignació dels grups
+|Grup|Integrant|Alumne|
+|----|----|----|
+|Grup 1|Alumne 1|Manero Caballeria, Adrià|
+||Alumne 2|Giribet Vives, Sergi|
+||Alumne 3|Pedrosa Teira, Marc|
+||Alumne 4|Garcia Antunez, Ferran|
+|Grup 2|Alumne 1|Blanch Martínez, David|
+||Alumne 2|Bosch López, Martí|
+||Alumne 3|Loriz Pou, Gerard|
+||Alumne 4|Rubio López, Èric|
+|Grup 3|Alumne 1|Cabanillas Marín, Pau|
+||Alumne 2|Coll Camí, Guillem|
+||Alumne 3|Vèlez Mañas, Raul|
+||Alumne 4|Gonzalez Jimenez, Marti|
+|Grup 4|Alumne 1|Calle López, Xavier|
+||Alumne 2|Delgado Pedrós, Izar|
+||Alumne 3|Sohl Brenes, Martin Albert|
+||Alumne 4|Pavo Rodriguez , Alex|
+|Grup 5|Alumne 1|Navarro Galan, Gerard|
+||Alumne 2|Ferro Torras, Iñaki|
+||Alumne 3|Gómez Beato, Pol|
+||Alumne 4|Vásquez Almeida, Anthony José|
+|Grup 6|Alumne 1|Sánchez Gras, Hector|
+||Alumne 2|Jara Duarte, Paula|
+||Alumne 3|Caritg Pardo, Alek|
+||Alumne 4|Vicente Moreno, Marc|
+|Grup 7|Alumne 1|Arroyo Ureña, Iker|
+||Alumne 2|Rincones Reche, Marc|
+||Alumne 3|Janer Deltoro, Jan|
+||Alumne 4|Gallego Clavijo, Guillem|
+||Alumne 5|Julià Bosch, Jaume|
+
+
 Caldrà:
 * crear un **repositori local** anomenat **```A15U-SMX2-2223-Grup-<#>```**,
 * crear un **repositori remot**, **privat**, anomenat **```A15U-SMX2-2223-Grup-<#>```**, i convidar a la resta dels alumnes del grup i a l'usuari **```joanpardogine```**
