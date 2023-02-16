@@ -5,7 +5,7 @@
 * 1 alumne tindrà una màquina virtual amb el SO de servidor amb **Windows 2019 Server**
 * 1 alumne tindrà una màquina virtual amb el SO de client amb **Windows**
 * 1 alumne tindrà una màquina virtual amb el SO de client amb **Linux** (amb interfície gràfica ```GNOME```)
-* 1 alumne tindrà conenxió a Internet
+* 1 alumne tindrà connexió a Internet
 
 En el grup de 5 alumnes el 5è alumne també tindrà una màquina virtual amb el SO de client amb linux (Centos 11 client)
 
@@ -21,16 +21,16 @@ Caldrà:
 
 * cada alumne farà un **```clone```** del repositori **```A15U-SMX2-2223-Grup-<#>```**
 
-Cal recordar que [**```github.com```**](github.com) és una eina per **treballar col·laborativament**, és a dir que en un mateix **repositori remot** poden crear i modificar contingut qualsevol del usuaris que están convidats com a col·laboradors.
+Cal recordar que [**```github.com```**](github.com) és una eina per **treballar col·laborativament**, és a dir que en un mateix **repositori remot** poden crear i modificar contingut qualsevol dels usuaris que estan convidats com a col·laboradors.
 
 > ## **IMPORTANT:**
-> ### Cada alumne haurà de documentar, afegint informació dins del fitxer **```README.md```** TOT allò que fa, per tal de que quedi registrat.
-> ### Per això, abans de fer res, haurà d'executar la comanda **```git pull```** per actualitzar el contingut del seu **repositori local**, amb la versió actual del **repositori remot**. D'aquesta manera, un alumnes haurà de fer els següents passos:
+> ### Cada alumne haurà de documentar, afegint informació dins del fitxer **```README.md```** TOT allò que fa, per tal que quedi registrat.
+> ### Per això, abans de fer res, haurà d'executar la comanda **```git pull```** per actualitzar el contingut del seu **repositori local**, amb la versió actual del **repositori remot**. D'aquesta manera, un alumne haurà de fer els següents passos:
 > 1. ### executar la comanda **```git pull```**,
 > 1. ### modificar el fitxer **```README.md```** afegint la seva informació,
 > 1. ### guardar el fitxer **```README.md```**,
 > 1. ### executar la comanda **```git add README.md```**, per afegir els nous a l'execució del següent **```commit```**,
-> 1. ### fer un **```commit -m "<missatge>"```** on **```<missatge>```** és un misatge que indica de manera clara i resumida allò que ha fet,
+> 1. ### fer un **```commit -m "<missatge>"```** on **```<missatge>```** és un missatge que indica de manera clara i resumida allò que ha fet,
 > 1. ### executar la comanda **```git push -u origin main```**, per pujar tots els canvis realitzats al **repositori remot**.
  
 
