@@ -24,12 +24,12 @@ Caldrà:
 Cal recordar que [**```github.com```**](github.com) és una eina per **treballar col·laborativament**, és a dir que en un mateix **repositori remot** poden crear i modificar contingut qualsevol del usuaris que están convidats com a col·laboradors.
 
 > ## **IMPORTANT:**
-> ### Cada alumne haurà de documentar, afegint informació dins del fitxer **```RADEME.md```** TOT allò que fa, per tal de que quedi registrat.
+> ### Cada alumne haurà de documentar, afegint informació dins del fitxer **```README.md```** TOT allò que fa, per tal de que quedi registrat.
 > ### Per això, abans de fer res, haurà d'executar la comanda **```git pull```** per actualitzar el contingut del seu **repositori local**, amb la versió actual del **repositori remot**. D'aquesta manera, un alumnes haurà de fer els següents passos:
 > 1. ### excutar la comanda **```git pull```**,
-> 1. ### modificar el fitxer **```RADEME.md```** afegint la seva informació,
-> 1. ### guardar el fitxer **```RADEME.md```**,
-> 1. ### executar la comanda **```git add REAMDE.md```**, per afegir els nous a l'execució del següent **```commit```**,
+> 1. ### modificar el fitxer **```README.md```** afegint la seva informació,
+> 1. ### guardar el fitxer **```README.md```**,
+> 1. ### executar la comanda **```git add README.md```**, per afegir els nous a l'execució del següent **```commit```**,
 > 1. ### fer un **```commit -m "<missatge>"```** on **```<missatge>```** és un misatge que indica de manera clara i resumida allò que ha fet,
 > 1. ### executar la comanda **```git push origin main```**, per pujar tots els canvis realitzats al **repositori remot**.
  
