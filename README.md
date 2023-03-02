@@ -2,12 +2,13 @@
 
 29 alumnes => 6 grups de 4 alumnes i un grup de 5 alumnes (6 x 4 = 24 + 5 = 29)
 
-* 1 alumne tindrà una màquina virtual amb el SO de servidor amb **Windows 2019 Server**
-* 1 alumne tindrà una màquina virtual amb el SO de client amb **Windows**
-* 1 alumne tindrà una màquina virtual amb el SO de client amb **Linux** (amb interfície gràfica ```GNOME```)
-* 1 alumne tindrà connexió a Internet
+* **Alumne 1** tindrà una màquina virtual amb el SO de servidor amb **Windows 2019 Server**
+* **Alumne 2** tindrà una màquina virtual amb el SO de client amb **Windows**
+* **Alumne 3** tindrà una màquina virtual amb el SO de client amb **Linux** (amb interfície gràfica ```GNOME```)
+* **Alumne 4** tindrà connexió a Internet
 
-En el grup de 5 alumnes el 5è alumne també tindrà una màquina virtual amb el SO de client amb linux (Centos 11 client)
+En el grup de 5 alumnes el 5è alumne també tindrà una màquina virtual amb el SO de client amb ```Linux```
+* **Alumne 5** tindrà una màquina virtual amb el SO de client amb **Linux** (amb interfície gràfica ```GNOME```)
 
 # Assignació dels grups
 |Grup|Integrant|Alumne|
